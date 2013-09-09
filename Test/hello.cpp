@@ -8,7 +8,7 @@
 
 int main()
 {
-	std::cout<<sHello<<"\n";
+	std::cout<<sHello<<" hello \n";
 //	int i = MyFunc();
 //	if (i == 5)
 //		std::cout<<"5";
