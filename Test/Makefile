@@ -1,2 +1,2 @@
 all:
-	g++ hello.cpp -o hello
+	g++ src.cpp Rational.cpp AlgoHelper.cpp -o test
